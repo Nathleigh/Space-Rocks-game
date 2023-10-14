@@ -6,5 +6,4 @@ UP ARROW = thrust\
 LEFT ARROW = rotate left\
 RIGHT ARROW = rotate right\
 SPACE BAR = shoot\
-
 Destroy all the asteroids to win!
